@@ -1,21 +1,19 @@
-body p{
+.odd{
     background-color: rgb(253, 98, 227);
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
 .two{
-   color: blue;
-   font-size: 36px; 
+    color: blue;
+    font-size: 36px;
 }
 
 .three{
-    background-color: rgb(253, 98, 227);
-    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
     font-size: 24px;
 }
 
-.four{
-    background-color: lightgreen;
+#fore{
+    background-color: rgb(104, 252, 104);
     font-size: 24px;
     font-weight: bold;
 }
