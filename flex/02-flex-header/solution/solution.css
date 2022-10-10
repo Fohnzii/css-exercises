@@ -28,7 +28,7 @@ a {
 
 .header {
   padding: 8px;
-  display: flex;
+  display: flex;10px
   align-items: center;
   justify-content: space-between;
 }
