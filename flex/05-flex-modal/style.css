@@ -14,7 +14,24 @@ body {
   align-items: center;
   justify-content: center;
 }
+.first{
+  display: flex;
+  padding: 15px;
+  flex: 1;
+  justify-content: space-between;
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  flex-flow: row wrap;
+  margin: -45px 0px;
 
+}
 .modal {
   background: white;
   width: 480px;
